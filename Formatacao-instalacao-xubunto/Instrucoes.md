@@ -115,7 +115,7 @@ Observação: Aguarde ele copiar os arquivos. Quando terminar verá que o arquiv
 
 <img src="./images/image6.png" width="650" ><br>
 
-<strong>Passo 17.</strong> Salve as configurações: <strong>Save & Exit</strong> → yes → enter
+<strong>Passo 17.</strong> Salve as configurações: <strong>Save & Exit</strong> → F4 → yes → enter
 
 <img src="./images/image7.png" width="650" ><br>
 
