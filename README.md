@@ -1,2 +1,2 @@
-# Hardware
-Anotações de estudos sobre hardware
+# Linux
+Anotações de estudos sobre linux
